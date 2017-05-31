@@ -12,9 +12,7 @@ Installation
 
 Now we're going to the details of installation
 > **Note:**
-
 > - There are some requirements in order to use this repo
-
 > 1. You need to have [**composer**](http://getcomposer.org) installed.
 > 2. I'm using nginx as my local webserver so **.htaccess** is not included. Hopefully I will add this in the next few decades ;-)
 > 3. I advise you to make a local domain (eg. test.dev or whatever you use). I'm link a good tutorial for that matter soon as well.
