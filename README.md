@@ -15,7 +15,7 @@ Now we're going to the details of installation
 > - There are some requirements in order to use this repo
 > 1. You need to have [**composer**](http://getcomposer.org) installed.
 > 2. I'm using nginx as my local webserver so **.htaccess** is not included. Hopefully I will add this in the next few decades ;-)
-> 3. I advise you to make a local domain (eg. test.dev or whatever you use). I'm link a good tutorial for that matter soon as well.
+> 3. I advise you to make a local domain (eg. test.dev or whatever you use). Also, I'm going to provide a link for a good tutorial on that matter soon.
 
 ### 1. Clone the project
 
@@ -27,7 +27,7 @@ This will clone the repo on you local storage
 
     composer install
 
-This will install the composer packages (if that name scares you read it **"libraries"** for the time being) of the project which is basically [**This repository**](https://github.com/phpgearbox/router).
+This will install the composer packages (if that name **packages** scares you, read it as **"libraries"** for the time being) of the project which is basically [**This repository**](https://github.com/phpgearbox/router).
 
 ### 3. Define routes
-you can define your routes in **routes.php** file. to understand how to populate new routes refer to [this link](https://github.com/phpgearbox/router).
+You can define your routes in **routes.php** file. To understand how to populate new routes, refer to [this link](https://github.com/phpgearbox/router).
